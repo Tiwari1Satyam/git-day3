@@ -1,7 +1,7 @@
 const data = {
-    name: "MY_NAME",
-    githubLink: "https://github.com/GITHUB_USERNAME" ,
-    email : "MAIL_ADDRESS",
+    name: "Satyam",
+    githubLink: "https://github.com/Tiwari1Satyam" ,
+    email : "tiwari1satyam2003@gmail.com",
     hobbies : [
         "Movies",
         "Travelling",
@@ -9,7 +9,7 @@ const data = {
     ],
     jobTitle : "Software Engineer",
     degree: "Bachelor's in Computer Engineering",
-    campus: "Pulchowk Campus",
+    campus: "Kathmadu Engineering College",
     location: "Nepal",
     spokenLanguages: "Nepali,English",
 }
